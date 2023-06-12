@@ -1,7 +1,7 @@
 
 const TiposBasicos = () => {
 
-    const  nombre : string = 'Fernando';
+    const  nombre : string = 'Joaquin';
     const edad : number = 35;
     const estaActivo : boolean = true;
 
